@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d7ec065-f242-4a50-896f-8df18cb05466" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lop va Doi tuong.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThucHanhTaoLopHCN/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThucHanhTaoLopHCN/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaiTap/XayDungLopPTBac2/PhuongTrinhBac2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaiTap/XayDungLopPTBac2/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +39,20 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BaiTap.XayDungLopPTBac2.main">
+    <configuration name="BaiTap.XayDungLopPTBac2.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaiTap.XayDungLopPTBac2.main" />
+      <module name="Lop va Doi tuong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaiTap.XayDungLopPTBac2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThucHanhTaoLopHCN.main" />
       <module name="Lop va Doi tuong" />
@@ -60,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaiTap.XayDungLopPTBac2.main" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
