@@ -15,7 +15,6 @@ public class main {
 
         PhuongTrinhBac2 phuongTrinhBac2 = new PhuongTrinhBac2(a, b, c);
 
-        double delta;
         if (phuongTrinhBac2.getDiscriminalt() > 0){
             System.out.println("R1 = " + phuongTrinhBac2.getRoot1());
             System.out.println("R2 = " + phuongTrinhBac2.getRoot2());
